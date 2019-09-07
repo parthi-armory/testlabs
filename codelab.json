@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-07-19T17:22:44Z",
+  "id": "my-first-codelab",
+  "duration": 24,
+  "title": "First Codelab Doc",
+  "authors": "Parthiban srinivasan",
+  "summary": "In this codelab, i am testing codelab",
+  "source": "1UnQsTTTVs0t7QSm_q3SX1nJ-VqDv1zGFO3ZSqCNqFx4",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "io2019",
+    "web"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "url": "my-first-codelab"
+}
