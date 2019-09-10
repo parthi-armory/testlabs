@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-07-25T16:30:41Z",
+  "id": "spinnaker-competency",
+  "duration": 3,
+  "title": "Spinnaker Competency",
+  "authors": "Parthiban srinivasan",
+  "summary": "Draft of Spinnaker Competency Matrix",
+  "source": "1lpAwCNVygbiTeXevrd-BFURQLdgwlX-eXUz0KWpikvQ",
+  "theme": "training",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Training"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "spinnaker-competency"
+}
