@@ -1,0 +1,12 @@
+{
+  "title": "Spinnaker Summit",
+  "description": "Come learn about Spinnaker by completing codelabs and coding challenges! The following codelabs will step you through using different parts of OSS Spinnaker. These challenges cover a range of topics such as Installation, Integration, Deployment, GitOps and Application delivery. Go to https://go.armory.io/codelabs/spinnaker-summit to find more codelabs you can try at home.",
+  "logoUrl": "/images/logo.png",
+  "tags": ["spinnaker-summit"],
+  "toolbarBgColor": "#300740",
+  "exclude": [
+    ".*-about$",
+    "^lang-.*"
+  ]
+}
+
