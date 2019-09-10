@@ -1,4 +1,4 @@
-# Codelabs Site
+## Codelabs Site
 
 A site for hosting codelabs content.
 
