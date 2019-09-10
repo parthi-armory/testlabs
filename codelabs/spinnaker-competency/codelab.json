@@ -15,10 +15,13 @@
     "published"
   ],
   "category": [
-    "Training"
+    "Training",
+    "Spinnaker"
   ],
   "tags": [
-    "web"
+    "web",
+    "2019",
+    "spinnaker-summit"
   ],
   "url": "spinnaker-competency"
 }

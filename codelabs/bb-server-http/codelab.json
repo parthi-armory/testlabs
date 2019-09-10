@@ -12,18 +12,17 @@
   "source": "1YVLujGTdJyU5eyAr1OjlT7YnRruUCAVd1ym6lbIgNZE",
   "theme": "spinnaker",
   "status": [
-    "authoring"
+    "published"
   ],
   "category": [
-    "Spinnaker"
+    "Spinnaker",
+    "Bitbucket"
   ],
   "tags": [
     "2019",
-    "armory-training",
-    "bitbucket",
-    "spinnaker-training",
-    "web"
+    "web",
+    "spinnaker-summit"
   ],
   "feedback": "https://github.com/armory/documentation/issues",
-  "url": "bb-server-http"
+  "url": "https://armorycodelabs.netlify.com/codelabs/bb-server-http"
 }
