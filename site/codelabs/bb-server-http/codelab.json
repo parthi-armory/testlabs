@@ -1,7 +1,7 @@
 {
   "environment": "web",
   "format": "html",
-  "prefix": "https://armorycodelabs.netlify.com",
+  "prefix": "http://armorycodelabs.com",
   "mainga": "UA-49880327-14",
   "updated": "2019-08-21T16:53:51Z",
   "id": "bb-server-http",
@@ -25,5 +25,5 @@
     "spinnaker-summit"
   ],
   "feedback": "https://github.com/armory/documentation/issues",
-  "url": "https://armorycodelabs.netlify.com/codelabs/bb-server-http"
+  "url": "bb-server-http"
 }
